@@ -25,4 +25,4 @@ php ./framework/cli-script.php dev/build
 
 * [g4b0' SilverStripe htmlpurifier](https://github.com/g4b0/silverstripe-htmlpurifier "Tidy up your outputs.") - great idea, requires a bit more work...
 
-## MISC: [Future ideas/development, issues](https://github.com/FriendsOfSilverStripe/seo-suite/issues), [Contributing](https://github.com/FriendsOfSilverStripe/seo-suite/blob/master/CONTRIBUTING.md), [License](https://github.com/FriendsOfSilverStripe/seo-suite/blob/master/license.md)
+### misc: [future ideas/development, issues](https://github.com/FriendsOfSilverStripe/seo-suite/issues), [contributing](https://github.com/FriendsOfSilverStripe/seo-suite/blob/master/CONTRIBUTING.md), [license](https://github.com/FriendsOfSilverStripe/seo-suite/blob/master/license.md)
