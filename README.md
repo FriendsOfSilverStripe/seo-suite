@@ -1,6 +1,8 @@
 # [doing SEO with SilverStripe](https://github.com/FriendsOfSilverStripe/seo-suite "SEO suite for SilverStripe websites") [![Latest Stable Version](https://poser.pugx.org/FriendsOfSilverStripe/seo-suite/version.svg)](https://github.com/FriendsOfSilverStripe/seo-suite/releases) [![Latest Unstable Version](https://poser.pugx.org/FriendsOfSilverStripe/seo-suite/v/unstable.svg)](https://packagist.org/packages/FriendsOfSilverStripe/seo-suite) [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/FriendsOfSilverStripe/seo-suite.svg)](https://scrutinizer-ci.com/g/FriendsOfSilverStripe/seo-suite?branch=master) [![Total Downloads](https://poser.pugx.org/FriendsOfSilverStripe/seo-suite/downloads.svg)](https://packagist.org/packages/FriendsOfSilverStripe/seo-suite) [![License](https://poser.pugx.org/FriendsOfSilverStripe/seo-suite/license.svg)](https://github.com/FriendsOfSilverStripe/seo-suite/blob/master/license.md)
 
-A collection of great SEO modules for SilverStripe framework in one package - in no particular order:
+## A collection of great SEO modules for SilverStripe framework in one package.
+
+In no particular order:
 
 * [SilverStripe' Google Sitemaps](https://github.com/silverstripe-labs/silverstripe-googlesitemaps "Providing google (and other search engines) with an sitemap.xml") - all websites should have a sitemap.xml
 * [Axllent' trailing-slash module](https://github.com/axllent/silverstripe-trailing-slash "Keep your URLs consistent everywhere and for everyone.") - keep URLs consistent.
