@@ -1,6 +1,6 @@
 # [SEO for SilverStripe](https://github.com/FriendsOfSilverStripe/seo-suite "SEO suite for SilverStripe websites") [![Latest Stable Version](https://poser.pugx.org/FriendsOfSilverStripe/seo-suite/version.svg)](https://github.com/FriendsOfSilverStripe/seo-suite/releases) [![Latest Unstable Version](https://poser.pugx.org/FriendsOfSilverStripe/seo-suite/v/unstable.svg)](https://packagist.org/packages/FriendsOfSilverStripe/seo-suite) [![Total Downloads](https://poser.pugx.org/FriendsOfSilverStripe/seo-suite/downloads.svg)](https://packagist.org/packages/FriendsOfSilverStripe/seo-suite) [![License](https://poser.pugx.org/FriendsOfSilverStripe/seo-suite/license.svg)](https://github.com/FriendsOfSilverStripe/seo-suite/blob/master/license.md)
 
-### A collection of great SEO modules for SilverStripe framework in one package.
+### A collection of great SEO modules for SilverStripe in one package.
 
 In no particular order:
 
