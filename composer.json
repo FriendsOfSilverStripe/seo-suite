@@ -1,0 +1,49 @@
+{
+    "name": "friendsofsilverstripe/seo-suite",
+    "description": "A set of modules for improving your search results.",
+
+    "type": "silverstripe-module", "license": "BSD-3-Clause", "extra": { "installer-name": "seo-suite" },
+    "homepage": "https://github.com/FriendsOfSilverStripe/seo-suite",
+
+    "keywords": [
+        "silverstripe",
+        "silverstripe seo",
+        "search engine optimization",
+        "seo",
+        "seo modules",
+        "serp",
+        "google",
+        "duckduckgo",
+        "do not track",
+        "module collection",
+        "set of modules"
+    ],
+
+    "require": {
+        "php": "^5.4",
+        "silverstripe/framework": "~3.0",
+
+        "silverstripe/googlesitemaps": "^1.0",
+        "axllent/silverstripe-trailing-slash": "^1.0",
+        "micschk/silverstripe-liveseo": "^2.0",
+        "Graphiques-Digitale/silverstripe-seo-icons": "*",
+        "Graphiques-Digitale/silverstripe-seo-facebook-domain-insights": "^1.0",
+        "Graphiques-Digitale/silverstripe-seo-open-graph": "^1.0"
+    },
+
+    "suggest": {
+        "friendsofsilverstripe/handypages": "Simple starter for a SilverStripe websites.",
+        "friendsofsilverstripe/silverstripe-maintenance-suite": "Keep your SilverStripe applications up to date easy."
+    },
+
+    "support": {
+        "issues": "https://github.com/FriendsOfSilverStripe/seo-suite/issues"
+    },
+
+    "authors": [
+        {
+            "name": "Peter Thaleikis",
+            "homepage": "https://github.com/spekulatius"
+        }
+    ]
+}
