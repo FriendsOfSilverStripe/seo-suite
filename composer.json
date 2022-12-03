@@ -22,13 +22,12 @@
     "require": {
         "php": "^5.4",
         "silverstripe/framework": "~3.0",
-
         "silverstripe/googlesitemaps": "^1.0",
         "axllent/silverstripe-trailing-slash": "^1.0",
         "micschk/silverstripe-liveseo": "^2.0",
-        "Graphiques-Digitale/silverstripe-seo-icons": "^1.0",
-        "Graphiques-Digitale/silverstripe-seo-facebook-domain-insights": "^1.0",
-        "Graphiques-Digitale/silverstripe-seo-open-graph": "^1.0"
+        "graphiques-digitale/silverstripe-seo-icons": "^1.0",
+        "graphiques-digitale/silverstripe-seo-facebook-domain-insights": "^1.0",
+        "graphiques-digitale/silverstripe-seo-open-graph": "^1.0"
     },
 
     "suggest": {
